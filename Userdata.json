@@ -22,7 +22,13 @@
         "key": "sarwan",
         "expirydate": "15-06-2027",
         "Allowoffline": true
-    }
+    },
+    {
+        "device_id": "d676056ed313aaa6",
+        "key": "kamal",
+        "expirydate": "15-06-2027",
+        "Allowoffline": true
+    },
 ]
 
 
