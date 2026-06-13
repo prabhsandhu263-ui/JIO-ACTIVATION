@@ -29,6 +29,12 @@
         "expirydate": "15-06-2027",
         "Allowoffline": true
     },
+    {
+        "device_id": "d2e6d61c28d15295",
+        "key": "bika",
+        "expirydate": "15-06-2027",
+        "Allowoffline": true
+    },
 ]
 
 
